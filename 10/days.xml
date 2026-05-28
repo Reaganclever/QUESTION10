@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<days>
+
+    <day>
+        <number>1</number>
+        <name>Sunday</name>
+    </day>
+
+    <day>
+        <number>2</number>
+        <name>Monday</name>
+    </day>
+
+    <day>
+        <number>3</number>
+        <name>Tuesday</name>
+    </day>
+
+    <day>
+        <number>4</number>
+        <name>Wednesday</name>
+    </day>
+
+    <day>
+        <number>5</number>
+        <name>Thursday</name>
+    </day>
+
+    <day>
+        <number>6</number>
+        <name>Friday</name>
+    </day>
+
+    <day>
+        <number>7</number>
+        <name>Saturday</name>
+    </day>
+
+</days>
